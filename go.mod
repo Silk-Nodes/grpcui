@@ -1,4 +1,4 @@
-module github.com/fullstorydev/grpcui
+module github.com/Silk-Nodes/grpcui
 
 go 1.15
 
